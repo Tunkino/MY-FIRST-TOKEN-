@@ -1,6 +1,24 @@
 {
   "name": "ANTI BITCOIN",
   "symbol": "ANTI",
-  "description": "Anti Bitcoin Token",
-  "image": "https://raw.githubusercontent.com/Tunkino/MY-FIRST-TOKEN-/main/ANTI-BITCOIN.gif"
+  "description": "My first TOKEN",
+  "image": "https://raw.githubusercontent.com/Tunkino/MY-FIRST-TOKEN-/main/ANTI-BITCOIN.gif",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Token"
+    },
+    {
+      "trait_type": "Animation",
+      "value": "GIF"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Tunkino/MY-FIRST-TOKEN-/main/ANTI-BITCOIN.gif",
+        "type": "image/gif"
+      }
+    ]
+  }
 }
